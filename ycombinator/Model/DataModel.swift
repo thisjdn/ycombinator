@@ -8,7 +8,9 @@
 import Foundation
 
 struct DataModel : Codable {
-    
+    let title : String
+    let type : String
+    let url : String
 }
 
 

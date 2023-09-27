@@ -8,5 +8,5 @@
 import Foundation
 
 struct FeedModel : Codable {
-    let feedId : Int
+    
 }
